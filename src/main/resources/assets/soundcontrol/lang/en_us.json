@@ -1,0 +1,8 @@
+{
+  "key.soundcontrol.mutemaster": "Master Volume Mute",
+  "key.soundcontrol.unmutemaster": "Master Volume Unmute",
+  "key.soundcontrol.upmaster": "Master Volume Up",
+  "key.soundcontrol.downmaster": "Master Volume Down",
+  
+  "key.soundcontrol.categories.soundcontrol": "Sound Control"
+}
